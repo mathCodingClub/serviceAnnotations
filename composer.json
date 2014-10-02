@@ -1,7 +1,7 @@
 {
   "name": "mathCodingClub/serviceAnnotations",
   "require": {
-    "doctrine/common": "*",
+    "doctrine/common": "*"
   },
   "autoload": {
     "psr-4": {
