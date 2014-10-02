@@ -1,0 +1,11 @@
+{
+  "name": "mathCodingClub/serviceAnnotations",
+  "require": {
+    "doctrine/common": "*",
+  },
+  "autoload": {
+    "psr-4": {
+      "serviceAnnotations\\": ""
+    }
+  }
+}
