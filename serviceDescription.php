@@ -1,6 +1,6 @@
 <?php
 
-namespace WS\annotations;
+namespace serviceAnnotations;
 
 /** @Annotation */
 class serviceDescription {
